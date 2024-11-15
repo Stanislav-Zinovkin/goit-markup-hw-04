@@ -254,8 +254,9 @@ address {
   border-radius: 50%;
 }
 
-.workers-links .icon-soc {
-  fill: #4d5ae5;
+.social-link,
+.footer-icon-link {
+  fill: #f4f4fd;
 }
 .work-gallery {
   width: calc((100% - 72px) / 4);
