@@ -149,6 +149,7 @@ address {
   background-color: #2e2f42;
   padding: 188px 0;
   text-align: center;
+  margin: 0 auto;
 }
 
 .title-text {
@@ -239,7 +240,6 @@ address {
 }
 .position {
   text-align: center;
-  padding-bottom: 8px;
 }
 
 .workers-links {
@@ -248,6 +248,7 @@ address {
   flex-shrink: 0;
   justify-content: center;
   align-items: center;
+  margin-top: 8px;
 }
 .workers-links .social-link {
   display: flex;
